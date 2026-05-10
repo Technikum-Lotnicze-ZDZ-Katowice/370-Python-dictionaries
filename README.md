@@ -20,8 +20,9 @@ print(auto["marka"],auto["model"],"z roku:",auto["rok"])
 ```
 
 #### ZAD37001.
-Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami
-(użyj słowników). Wypisz zawartość bazy w następującej formie:
+Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami (użyj słowników). 
+
+Wypisz zawartość bazy w następującej formie:
 ```
 W naszym salonie samochodowym mamy następujące auta:
 - Opel Corsa (rocznik 2006) - kolor: czerwony;
