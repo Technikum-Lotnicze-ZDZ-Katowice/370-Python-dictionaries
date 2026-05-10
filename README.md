@@ -1,5 +1,13 @@
 # 370-Python-dictionaries
 
+```python
+auto = {
+  "marka": "Ford",
+  "model": "Mustang",
+  "rok": 1964
+}
+```
+
 #### ZAD37001.
 Oblicz maksymalną wartość, minimalną wartość, średnią arytmetyczną oraz sumę zbioru podanych przez uzytkownika liczb oraz sprwdź które z nich są parzyste
 
@@ -23,3 +31,5 @@ Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji k
 
 
 ### Info
+https://www.w3schools.com/python/python_dictionaries.asp
+
