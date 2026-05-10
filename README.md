@@ -13,7 +13,7 @@ auto = {
 2. dostęp do pól słownika"
 
 ```python
-print(auto["marka"]," - ",auto["model"]," - rok: ",auto["rok"])
+print(auto["marka"],auto["model"],"z roku:",auto["rok"])
 ```
 
 #### ZAD37001.
