@@ -85,4 +85,5 @@ W trybie odpytywania z pytań program działąa tak jak w zadaniu ZAD37002 w pun
 
 ### Info
 https://www.w3schools.com/python/python_dictionaries.asp
+https://dev.to/kuku_29644c5b66/how-to-create-a-website-and-app-through-python-2025-22bo
 
