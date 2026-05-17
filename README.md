@@ -76,7 +76,7 @@ Przygotuj program pracujący w dwóch trybach:
 W trybie dodawania pytań program działa tak jak w zadaniu ZAD37003 (minimum 20 pytań)
 
 W trybie odpytywania z pytań program działąa tak jak w zadaniu ZAD37002 w punkcie 2 ale tak aby:
-- losował 1 pytanie z listy pytań a następnie czekać na odpowiedź i po udieleniu odpowiedzi przez użytkownika wyświetla wynik (Odpowiedź prawidłowa / Odpowiedź nieprawidłowa)
+- losował 1 pytanie z listy pytań a następnie czekać na odpowiedź i po udzieleniu odpowiedzi przez użytkownika wyświetla wynik (Odpowiedź prawidłowa / Odpowiedź nieprawidłowa)
 - odpytywać z 10 losowych pytań (baza pytań powinna zawierać 30 pytań) i zliczać punkty za prawidłowe odpowiedzi, a następnuie wyświetlać wynik
 - po każdym odpytaniu program pyta użytkownika o imię i zapisuje w pliku wynik uzytkownika oraz wyswietla ranking najlepszych użytkowników
 
