@@ -13,10 +13,40 @@ auto = {
 #tworzenie słownika
 auto2 = dict(marka = "Opel", model = "Corsa", rok = 2000)
 ```
-2. dostęp do pól słownika"
+2. dostęp do pól słownika
 
 ```python
 print(auto["marka"],auto["model"],"z roku:",auto["rok"])
+```
+
+3. Odczyt z pliku
+   
+```python
+f = open("demofile.txt")
+print(f.read())
+```
+4. Zapis do pliku
+
+tryby "x" - create, "a" - append, "W" - write/overwrite)
+
+```python
+with open("demofile.txt", "w") as f:
+  f.write("Woops! I have deleted the content!")
+```
+
+5. Liczby pseudolosowe
+```python
+import random
+---
+print(random.random())   # randrange(a,b), randint(a,b), choice(), shuffle(),
+```
+
+```python
+import random
+---
+liczby = [1,2,3,4,5,6]
+liczby.shuffle()
+---
 ```
 
 #### ZAD37001.
@@ -36,7 +66,13 @@ Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji k
 3. Szukaj
 
 #### ZAD37003
+Zmodyfikuj zadanie ZAD37001 tak, aby dane samochodów były zapisywane do pliku w formacie CSV
 
+#### ZAD37004
+Przygotuj program pracujący w dwóch trybach:
+1. Dodawanie pytań
+2. Odpytywanie z pytań
+   
 
 ### Info
 https://www.w3schools.com/python/python_dictionaries.asp
