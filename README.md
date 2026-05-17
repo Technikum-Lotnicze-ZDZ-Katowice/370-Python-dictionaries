@@ -10,7 +10,7 @@ auto = {
   "rok": 1964
 }
 
-#tworzenie słownika
+#tworzenie słownika (alternatywnie)
 auto2 = dict(marka = "Opel", model = "Corsa", rok = 2000)
 ```
 2. dostęp do pól słownika
