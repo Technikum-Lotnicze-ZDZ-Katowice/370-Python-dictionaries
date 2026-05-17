@@ -64,9 +64,11 @@ Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji k
 1. Wyświetl pełne rekordy
 2. Wyświetl tylko imię i nazwiska
 3. Szukaj
+
 ---
 #### ZAD37003
 Zmodyfikuj zadanie ZAD37001 tak, aby dane samochodów były zapisywane do pliku w formacie CSV
+
 ---
 #### ZAD37004
 Przygotuj program pracujący w dwóch trybach:
