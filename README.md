@@ -30,7 +30,7 @@ W naszym salonie samochodowym mamy następujące auta:
 - Subaru Impreza (rocznik 2017) - kolor: czarny;
 ```
 #### ZAD37002
-Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji która wyświetla wybrany zakres informacji o osobach:
+Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji która wyświetla wybrany zakres informacji o osobach (zastosuj format CSV):
 1. Wyświetl pełne rekordy
 2. Wyświetl tylko imię i nazwiska
 3. Szukaj
