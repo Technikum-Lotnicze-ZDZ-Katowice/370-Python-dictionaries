@@ -49,6 +49,8 @@ liczby.shuffle()
 ---
 ```
 
+---
+
 #### ZAD37001.
 Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami (użyj słowników). 
 
@@ -59,6 +61,9 @@ W naszym salonie samochodowym mamy następujące auta:
 - Ford Capri (rocznik 2010) - kolor: zielony;
 - Subaru Impreza (rocznik 2017) - kolor: czarny;
 ```
+
+---
+
 #### ZAD37002
 Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji która wyświetla wybrany zakres informacji o osobach (zastosuj format CSV):
 1. Wyświetl pełne rekordy
@@ -82,7 +87,7 @@ W trybie odpytywania z pytań program działąa tak jak w zadaniu ZAD37002 w pun
 - odpytywać z 10 losowych pytań (baza pytań powinna zawierać 30 pytań) i zliczać punkty za prawidłowe odpowiedzi, a następnuie wyświetlać wynik
 - po każdym odpytaniu program pyta użytkownika o imię i zapisuje w pliku wynik uzytkownika oraz wyswietla ranking najlepszych użytkowników
 
-
+---
    
 
 ### Info
