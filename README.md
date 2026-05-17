@@ -76,6 +76,8 @@ Zmodyfikuj zadanie ZAD37001 tak, aby dane samochodów były zapisywane do pliku 
 
 ---
 #### ZAD37004.
+Zadeklaruj temat quizu i zgłoś nauczycielowi.
+
 Przygotuj program pracujący w dwóch trybach:
 1. Dodawanie pytań
 2. Odpytywanie z pytań (Quiz)
