@@ -52,7 +52,7 @@ liczby.shuffle()
 ---
 
 #### ZAD37001.
-Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami (użyj słowników). 
+Przygotuj program pobierający dane od uzytkownika i tworzący bazę danych (listę) z samochodami (użyj listę słowników). 
 
 Wypisz zawartość bazy w następującej formie:
 ```
