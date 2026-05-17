@@ -64,18 +64,18 @@ W naszym salonie samochodowym mamy następujące auta:
 
 ---
 
-#### ZAD37002
+#### ZAD37002.
 Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji która wyświetla wybrany zakres informacji o osobach (zastosuj format CSV):
 1. Wyświetl pełne rekordy
 2. Wyświetl tylko imię i nazwiska
 3. Szukaj
 
 ---
-#### ZAD37003
+#### ZAD37003.
 Zmodyfikuj zadanie ZAD37001 tak, aby dane samochodów były zapisywane do pliku w formacie CSV
 
 ---
-#### ZAD37004
+#### ZAD37004.
 Przygotuj program pracujący w dwóch trybach:
 1. Dodawanie pytań
 2. Odpytywanie z pytań (Quiz)
