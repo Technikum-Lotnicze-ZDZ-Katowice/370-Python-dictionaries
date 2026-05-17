@@ -27,7 +27,7 @@ print(f.read())
 ```
 4. Zapis do pliku
 
-tryby "x" - create, "a" - append, "W" - write/overwrite)
+tryby "x" - create, "a" - append, "w" - write/overwrite)
 
 ```python
 with open("demofile.txt", "w") as f:
