@@ -34,7 +34,7 @@ with open("demofile.txt", "w") as f:
   f.write("Woops! I have deleted the content!")
 ```
 
-5. Liczby pseudolosowe
+5. Generator liczb losowych
 ```python
 import random
 ---
