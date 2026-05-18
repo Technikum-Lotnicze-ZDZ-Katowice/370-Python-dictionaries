@@ -90,7 +90,11 @@ W trybie odpytywania z pytań program działąa tak jak w zadaniu ZAD37002 w pun
 - po każdym odpytaniu program pyta użytkownika o imię i zapisuje w pliku wynik uzytkownika oraz wyswietla ranking najlepszych użytkowników
 
 ---
-   
+
+Wypisz na ekranie dane samochodów podane przez uzytkownika:
+
+- wystarczy Marka i model
+- zapytaj po każdym dodaniu czy dodawać kolejne
 
 ### Info
 https://www.w3schools.com/python/python_dictionaries.asp
