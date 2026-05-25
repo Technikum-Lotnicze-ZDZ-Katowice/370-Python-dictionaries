@@ -75,6 +75,7 @@ Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji k
 Zmodyfikuj zadanie ZAD37001 tak, aby dane samochodów były zapisywane do pliku w formacie CSV
 
 ---
+
 #### ZAD37004.
 Zadeklaruj temat quizu i zgłoś nauczycielowi.
 
