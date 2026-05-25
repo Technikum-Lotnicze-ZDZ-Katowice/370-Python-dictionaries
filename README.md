@@ -68,7 +68,7 @@ W naszym salonie samochodowym mamy następujące auta:
 Przygotuj bazę danych osobowych w pliku tekstowym i załaduj ją do aplikacji która wyświetla wybrany zakres informacji o osobach (zastosuj format CSV):
 1. Wyświetl pełne rekordy
 2. Wyświetl tylko imię i nazwiska
-3. Szukaj
+3. Dodaj funkcję "Szukaj" pozwalającą na podanie frazy do odnalezienia w rekordach
 
 ---
 #### ZAD37003.
